@@ -56,13 +56,13 @@
     {
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "foreground": "#8499d6"
+        "foreground": "#819df4"
       }
     },
     {
       "scope": ["variable", "identifier", "meta.definition.variable"],
       "settings": {
-        "foreground": "#d7d5f7"
+        "foreground": "#e6e5f3"
       }
     },
     {
@@ -80,7 +80,7 @@
     {
       "scope": ["storage.modifier", "entity.name.type", "support.type"],
       "settings": {
-        "foreground": "#d7d5f7"
+        "foreground": "#e6e5f3"
       }
     },
     {
