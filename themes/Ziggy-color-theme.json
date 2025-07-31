@@ -3,39 +3,39 @@
   "type": "dark",
   "colors": {
     "editor.background": "#0e0e0e", // Editor background color
-    "editor.foreground": "#b29bff", // Editor text color
+    "editor.foreground": "#dc819e", // Editor text color
     "editor.lineHighlightBackground": "#262327", // Highlight current line
     "editorLineNumber.foreground": "#4d5267", // Line number color
     "editorLineNumber.activeForeground": "#b994f4", // Active line number color
     "editor.selectionBackground": "#3f3a40", // Selection highlight
     "editorGroupHeader.tabsBackground": "#171717",
-    "icon.foreground": "#d1cffd",
+    "icon.foreground": "#cbc5f4",
     "window.activeBorder": "#ffffff8d", // Active window border color
     "window.inactiveBorder": "#4a4a4a", // Inactive window border color
     "tab.activeBackground": "#0e0e0e",
     "tab.inactiveBackground": "#171717",
     "tab.hoverBackground": "#212121",
-    "tab.activeForeground": "#d1cffd",
+    "tab.activeForeground": "#d7d5f7",
     "tab.inactiveForeground": "#908fa9",
     "sideBar.background": "#0e0e0e", // Sidebar background color
-    "sideBar.foreground": "#d1cffd", // Sidebar text color
+    "sideBar.foreground": "#d7d5f7", // Sidebar text color
     "sideBar.border": "#b994f46c",
     "sideBarSectionHeader.border": "#b994f46c",
     "sideBarTitle.foreground": "#b994f4", // Sidebar title color
     "sideBarSectionHeader.background": "#0e0e0e", // Sidebar section header background
     "activityBar.background": "#0e0e0e", // Activity bar background color
-    "activityBar.foreground": "#d1cffd", // Activity bar text color
+    "activityBar.foreground": "#d7d5f7", // Activity bar text color
     "activityBar.border": "#b994f46c",
     "activityBarBadge.background": "#b994f4", // Activity bar badge color
     "activityBarBadge.foreground": "#0e0e0e",
     "statusBar.background": "#0e0e0e", // Status bar background color
-    "statusBar.foreground": "#d1cffd", // Status bar text color
+    "statusBar.foreground": "#d7d5f7", // Status bar text color
     "statusBar.noFolderBackground": "#0e0e0e", // Status bar no folder background
     "statusBar.border": "#b994f46c",
     "titleBar.activeBackground": "#0e0e0e", // Title bar active background
-    "titleBar.activeForeground": "#d1cffd", // Title bar active text color
+    "titleBar.activeForeground": "#d7d5f7", // Title bar active text color
     "titleBar.inactiveBackground": "#0e0e0e", // Title bar inactive background
-    "titleBar.inactiveForeground": "#d1cffd", // Title bar inactive text color
+    "titleBar.inactiveForeground": "#d7d5f7", // Title bar inactive text color
     "titleBar.border": "#b994f46c"
   },
   "tokenColors": [
@@ -49,26 +49,26 @@
     {
       "scope": ["keyword", "storage.type", "keyword.control"],
       "settings": {
-        "foreground": "#8499d6",
+        "foreground": "#b29bff",
         "fontStyle": "bold"
       }
     },
     {
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "foreground": "#b098fc"
+        "foreground": "#8499d6"
       }
     },
     {
       "scope": ["variable", "identifier", "meta.definition.variable"],
       "settings": {
-        "foreground": "#e2e2e2"
+        "foreground": "#d7d5f7"
       }
     },
     {
       "scope": ["string", "string.quoted", "string.template"],
       "settings": {
-        "foreground": "#eb9b9b"
+        "foreground": "#fff371"
       }
     },
     {
@@ -80,13 +80,13 @@
     {
       "scope": ["storage.modifier", "entity.name.type", "support.type"],
       "settings": {
-        "foreground": "#e2d4e9"
+        "foreground": "#d7d5f7"
       }
     },
     {
       "scope": ["constant", "support.constant", "constant.language"],
       "settings": {
-        "foreground": "#c4a0ff"
+        "foreground": "#b29bff"
       }
     },
     {
@@ -98,7 +98,7 @@
     {
       "scope": ["meta.preprocessor", "meta.directive"],
       "settings": {
-        "foreground": "#fff371"
+        "foreground": "#9eeaaa"
       }
     },
     {
@@ -108,7 +108,7 @@
         "support.other.variable"
       ],
       "settings": {
-        "foreground": "#fff371"
+        "foreground": "#9eeaaa"
       }
     }
   ]
