@@ -3,6 +3,7 @@
   "displayName": "Ziggy",
   "description": "Theme for Zigs",
   "version": "0.0.1",
+  "icon": "icon.jpg",
   "engines": {
     "vscode": "^1.102.0"
   },
