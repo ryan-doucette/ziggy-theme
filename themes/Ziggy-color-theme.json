@@ -2,6 +2,7 @@
   "name": "My Custom Theme",
   "type": "dark",
   "colors": {
+    "actionBar.toggledBackground": "#007fd466",
     "editor.background": "#151416", // Editor background color
     "editor.foreground": "#ece9ff", // Editor text color
     "editor.lineHighlightBackground": "#26232793", // Highlight current line
@@ -40,7 +41,8 @@
     "selection.background": "#baa5ff6c",
     "button.background": "#baa5ffdc",
     "button.foreground": "#151416",
-    "button.hoverBackground": "#baa5ff"
+    "button.hoverBackground": "#baa5ff",
+    "focusBorder": "#baa5ff"
   },
   "tokenColors": [
     {
