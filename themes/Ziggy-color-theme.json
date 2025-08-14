@@ -2,41 +2,45 @@
   "name": "My Custom Theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#0e0e0e", // Editor background color
+    "editor.background": "#151416", // Editor background color
     "editor.foreground": "#ece9ff", // Editor text color
     "editor.lineHighlightBackground": "#26232793", // Highlight current line
     "editorLineNumber.foreground": "#4d5267", // Line number color
-    "editorLineNumber.activeForeground": "#b994f4", // Active line number color
+    "editorLineNumber.activeForeground": "#baa5ff", // Active line number color
     "editor.selectionBackground": "#3f3a40", // Selection highlight
     "editorGroupHeader.tabsBackground": "#171717",
     "icon.foreground": "#ece9ff",
     "window.activeBorder": "#ffffff8d", // Active window border color
     "window.inactiveBorder": "#4a4a4a", // Inactive window border color
-    "tab.activeBackground": "#0e0e0e",
+    "tab.activeBackground": "#151416",
     "tab.inactiveBackground": "#171717",
     "tab.hoverBackground": "#212121",
     "tab.activeForeground": "#ece9ff",
     "tab.inactiveForeground": "#908fa9",
-    "sideBar.background": "#0e0e0e", // Sidebar background color
+    "sideBar.background": "#151416", // Sidebar background color
     "sideBar.foreground": "#ece9ff", // Sidebar text color
-    "sideBar.border": "#b994f46c",
-    "sideBarSectionHeader.border": "#b994f46c",
-    "sideBarTitle.foreground": "#b994f4", // Sidebar title color
-    "sideBarSectionHeader.background": "#0e0e0e", // Sidebar section header background
-    "activityBar.background": "#0e0e0e", // Activity bar background color
+    "sideBar.border": "#baa5ff6c",
+    "sideBarSectionHeader.border": "#baa5ff6c",
+    "sideBarTitle.foreground": "#baa5ff", // Sidebar title color
+    "sideBarSectionHeader.background": "#151416", // Sidebar section header background
+    "activityBar.background": "#151416", // Activity bar background color
     "activityBar.foreground": "#ece9ff", // Activity bar text color
-    "activityBar.border": "#b994f46c",
-    "activityBarBadge.background": "#b994f4", // Activity bar badge color
-    "activityBarBadge.foreground": "#0e0e0e",
-    "statusBar.background": "#0e0e0e", // Status bar background color
+    "activityBar.border": "#baa5ff6c",
+    "activityBarBadge.background": "#baa5ff", // Activity bar badge color
+    "activityBarBadge.foreground": "#151416",
+    "statusBar.background": "#151416", // Status bar background color
     "statusBar.foreground": "#ece9ff", // Status bar text color
-    "statusBar.noFolderBackground": "#0e0e0e", // Status bar no folder background
-    "statusBar.border": "#b994f46c",
-    "titleBar.activeBackground": "#0e0e0e", // Title bar active background
+    "statusBar.noFolderBackground": "#151416", // Status bar no folder background
+    "statusBar.border": "#baa5ff6c",
+    "titleBar.activeBackground": "#151416", // Title bar active background
     "titleBar.activeForeground": "#ece9ff", // Title bar active text color
-    "titleBar.inactiveBackground": "#0e0e0e", // Title bar inactive background
+    "titleBar.inactiveBackground": "#151416", // Title bar inactive background
     "titleBar.inactiveForeground": "#ece9ff", // Title bar inactive text color
-    "titleBar.border": "#b994f46c"
+    "titleBar.border": "#baa5ff6c",
+    "selection.background": "#baa5ff6c",
+    "button.background": "#baa5ffdc",
+    "button.foreground": "#151416",
+    "button.hoverBackground": "#baa5ff"
   },
   "tokenColors": [
     {
